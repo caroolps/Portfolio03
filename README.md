@@ -14,11 +14,11 @@ LISTA DOS PORTFÓLIOS:
 
 ### I - RESUMO DO PROJETO 
 
-O presente documento visa apresentar a solução tecnológica proposta pela equipe para atender às necessidades do cliente SPC Brasil, norteando o desenvolvimento do projeto. Aqui, serão identificados e classificados o objeto, requisitos, proposta da solução e destacando a usabilidade da aplicação desenvolvida.
+O presente documento visa apresentar a solução tecnológica proposta pela equipe para atender às necessidades do cliente SPC Brasil, norteando o desenvolvimento do projeto. Aqui, serão identificados e classificados o objeto, requisitos, proposta da solução e destacando a usabilidade da aplicação desenvolvida. A cliente está com dificuldades em trazer os clientes para o programa Cadastro Positivo, um programa benéfico que é um banco de dados de pessoas físicas e jurídicas que leva em conta os pagamentos em dia de compromissos de crédito e de consumo.
 
-A solução consiste numa aplicação visual para beneficiar o usuário a participar e se manter cadastrado no serviço Cadastro Positivo da SPC Brasil.
+A cliente espera que a solução consista numa aplicação visual para beneficiar o usuário a participar e se manter cadastrado no serviço Cadastro Positivo.
 
-Nesse passo, como característica principal, da qual decorrem as funcionalidades (requisitos), a aplicação deve possibilitar que o usuário consiga visualizar seu score,  análise dos seus dados e a equipe deve propor ideias e difenciais na aplicação para que o usuário se interesse e veja benefícios em utilizar a ferramenta Cadastro Positivo. Com isso proposmo uma ferramenta com Monetização e Fidelização como atrativo para o usuário.
+Com base nesse briefing, como característica principal, da qual decorrem as funcionalidades (requisitos), a aplicação deve possibilitar que o usuário consiga visualizar seu score,  análise dos seus dados e a equipe deve propor ideias e difenciais na aplicação para que o usuário se interesse e veja benefícios em utilizar a ferramenta Cadastro Positivo. Com isso proposmo uma ferramenta com Monetização e Fidelização como atrativo para o usuário.
 
 ## Estrutura do Projeto
 ![Casos-de-Uso](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/DIAGRAMA-CASOS-DE-USO-v.2.jpg?raw=true"Casos-de-Uso")
