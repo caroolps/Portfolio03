@@ -8,6 +8,9 @@ A solução consiste numa aplicação visual para beneficiar o usuário a partic
 
 Nesse passo, como característica principal, da qual decorrem as funcionalidades (requisitos), a aplicação deve possibilitar em que o usuário consiga visualizar seu score e a equipe deve propor ideias para o usuário utilizar a ferramenta Cadastro Positivo. Com isso proposmo uma ferramenta com Monetização e Fidelização como atrativo para o usuário.
 
+## Estrutura do Projeto
+![Casos-de-Uso](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/DIAGRAMA-CASOS-DE-USO-v.2.jpg?raw=true"Casos-de-Uso")
+
 #### DIFERENCIAIS DA PLATAFORMA:
 - **MONETIZAÇÃO:** TODAS AS FUNÇÕES SÃO MONETIZÁVEIS;
 - **FIDELIZAÇÃO** pela **GAMIFICAÇÃO** POR TODO O AMBIENTE EM BUSCA DA FIDELIZAÇÃO;
@@ -84,26 +87,22 @@ Objetivo 03:  segurança ao próximo estabelecimento, para decidir se pode vende
 ***Poder ao usuário e recompensas pelos seus dados***
 
 
-## II - DIAGRAMA DE CASO DE USO
-![Casos-de-Uso](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/DIAGRAMA-CASOS-DE-USO-v.2.jpg?raw=true"Casos-de-Uso")
-
-## III - ALCANCE DA FERRAMENTA
+## I - ALCANCE DA FERRAMENTA
 ![alcance](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/Alcance_escopo_valscore-1.0.jpg?raw=true"Casos-de-Uso")
 
-## IV - ANGULAR: PRIVACIDADE E TRATAMENTO DE ERROS (LOGIN, ENVIO DA REQUISIÇÃO: ***session storage***)
+## II - ANGULAR: PRIVACIDADE E TRATAMENTO DE ERROS (LOGIN, ENVIO DA REQUISIÇÃO: ***session storage***)
 ![PRIVACIDADE](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/PRIVACIDADE%2BTRATAMENTO-ERROS-01.jpeg?raw=true"session-storage")
 
-## IV.I - ANGULAR: PRIVACIDADE E TRATAMENTO DE ERROS (RESPOSTA À REQUISIÇÃO: ***session storage***)
+## III - ANGULAR: PRIVACIDADE E TRATAMENTO DE ERROS (RESPOSTA À REQUISIÇÃO: ***session storage***)
 ![PRIVACIDADE](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/PRIVACIDADE%2BTRATAMENTO-ERROS-02.jpeg?raw=true"session-storage")
 
-## V - CÓDIGO: CONSULTA E ALTERA NO BANCO DE DADOS
+## IV - CÓDIGO: CONSULTA E ALTERA NO BANCO DE DADOS
 ![Consulta-Altera](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/CONSULTA-ALTERA-DADOS.jpeg?raw=true"Consulta-Altera")
 
 ## V.I - CÓDIGO: IMPORTA ARQUIVOS CSV, TRATA DADOS E INSERE NO BANCO DE DADOS
 ![Importa-CSVl](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/IMPORTA-ARQUIVO-CODIGO.jpeg?raw=true"Importa-CSV")
 
-
-## VI - MODELO-RELACIONAL DO BANCO DE DADOS
+## V - MODELO-RELACIONAL DO BANCO DE DADOS
 ![Modelo-Relacional](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/MODELO-RELACIONAL-VALSCORE.jpg?raw=true"Casos-de-Uso")
 
 ## VII - DIAGRAMA DE CLASSES DO BANCO DE DADOS
