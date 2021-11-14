@@ -142,6 +142,8 @@ Objetivo 03:  segurança ao próximo estabelecimento, para decidir se pode vende
 
 - Data Grip: IDE de banco de dados, ele detecta bugs prováveis no seu código e sugere as melhores opções para corrigi-los rapidamente.
 
+- Visual Code: O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft
+
 - Banco de Dados Oracle: O Banco de dados Oracle (Oracle DB) é um sistema de gerenciamento de banco de dados relacional (RDBMS, Relational Database Management System),com ele criamos nosso banco de dados para integração com backend.
  
 - Metodologia Scrum;
@@ -150,9 +152,32 @@ Objetivo 03:  segurança ao próximo estabelecimento, para decidir se pode vende
 
 ### III - CONTRIBUIÇÕES INDIVIDUAS/PESSOAIS
 
+Nesse projeto afim de aprimorar os conhecimentos na área que mais se identificou ao longo do curso, como foquei no bakcend e banco de dados no Projeto anterior, resolvi focar e estudar novas tecnologias do Front-End, com isso contribui com o projeto, trazendo:
 
+- Aplicação Angular: Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript, por ser um framework modular, ele precisa de um ou mais módulos para que possamos gerenciar os nossos componentes, esse módulo acaba sendo um default, mas podemos criar outros modulos e chamar eles dentro dele, por essa organização, facilidade de entendimento e por ser uns dos principais frameworks mais utilizados atualmente, resolvemos trazer essa aplicação para nosso projeto. Através dessa tecnologia desenvolvemos as telas:
+- VIEW: Tela de permissões de acesso a dados do usuário;
+
+- VIEW: Tela de sumário de pontos e trocas possíveis;
+
+- VIEW: Tela de Educação Financeira e Desafios;
+
+- VIEW: Cadastro de Transações para Desbancarizados;
+
+![MóduloAngular](https://user-images.githubusercontent.com/61089745/141664849-ddac0cb9-7e06-4526-8e5a-562b2aee8463.PNG)
+
+- TypeScript: Utilizei o TypeScript para cria a Tela de sumário de pontos e trocas possíveis e Cadastro de Transações para Desbancarizados, pois é uma tela com objetos estatísticos e com cálculos de transações, necessitava de uma linguagem mais robusta.
+
+![TypeTransações](https://user-images.githubusercontent.com/61089745/141664757-b8a20b0c-9d67-4c7f-94f4-0e86cc652c76.PNG)
+
+- Validações na tela de Login: Juntamente com o backend foi implatado um mecânismo de validação na tela de login e ao digitar o user ou password errado o sistema avisa que não foi encontrado esse login;
+
+![Capturar](https://user-images.githubusercontent.com/61089745/141664687-7b0eac95-f8d5-45eb-a4bc-bdae8a8f52b0.PNG)
 
 
 ### IV - APRENDIZADOS EFETIVOS
 
-
+Aprendi outros frameworks da aplicação web como Angular, TypeScript, CSS, reforcei meus conhecimentos em HTML.
+Não sabia como testava uma aplicação backend, pude conhecer e usar o Postman e Insominia
+Conheci um novo banco de dados Oracle e aprendi a usar o Hibernet, são sabia que essa funcionalidade criava as tabelas automaticamente.
+Aprimorei o conhecimento do repositório GitHub.
+Conheci o editor Visual Code, não sabia da existencia até rodar a aplicação front end em angular
