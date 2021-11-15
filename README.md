@@ -11,9 +11,13 @@
 
 ### I - RESUMO DO PROJETO 
 
-O presente documento visa apresentar a solução tecnológica proposta pela equipe para atender às necessidades do cliente SPC Brasil, norteando o desenvolvimento do projeto. Aqui, serão identificados e classificados o objeto, requisitos, proposta da solução e destacando a usabilidade da aplicação desenvolvida. A cliente está com dificuldades em trazer os clientes para o programa Cadastro Positivo, um programa benéfico que é um banco de dados de pessoas físicas e jurídicas que leva em conta os pagamentos em dia de compromissos de crédito e de consumo.
+Afim de atender às necessidades do cliente SPC Brasil, neste documento visa apresentar a solução tecnológica proposta pela equipe, possibilitando a identificação e classificação dos requisitos, que nortearão o desenvolvimento do projeto. 
 
-A cliente espera que a solução consista numa aplicação visual para beneficiar o usuário a participar e se manter cadastrado no serviço Cadastro Positivo.
+### Descrição:
+
+O cliente está com dificuldades em trazer e manter seus usuários cadastrados no programa Cadastro Positivo, cujo é um programa que permite que empresas nas quais você solicita crédito vejam como você se comporta no pagamento de suas faturas. Ele é como um currículo financeiro.
+
+Diferente do cadastro negativo, nessa modalidade, a empresa não vê apenas o que você deixou de pagar, mas o conjunto completo. Ou seja, ela vê tanto o que você pagou quanto o que você ainda não pagou. A partir da análise desses pagamentos, é calculado o seu score de crédito.
 
 Com base nesse briefing, como característica principal, da qual decorrem as funcionalidades (requisitos), a aplicação deve possibilitar que o usuário consiga visualizar seu score,  análise dos seus dados e a equipe deve propor ideias e difenciais na aplicação para que o usuário se interesse e veja benefícios em utilizar a ferramenta Cadastro Positivo. Com isso proposmo uma ferramenta com Monetização e Fidelização como atrativo para o usuário.
 
@@ -32,6 +36,7 @@ Com base nesse briefing, como característica principal, da qual decorrem as fun
 #### 1) Tela de Login + Tratamento de Erros: Cadastro.
 ![TELA ENTRADA](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA01-ENTRADA-01.jpeg?raw=true "Title")
 Usuário cadastra-se voluntariamente.
+
 #### 1.1) Tela de Login + Tratamento de Erros: Cadastro Correto.
 ![TELA ENTRADA](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA02-ENTRADA-02.jpeg?raw=true "Title")
 
@@ -52,51 +57,72 @@ Dash com as informações e histórico do Score do usuário.
 ![permissões](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/TELA-02-MINHA-CONTA-PERMISSOES.jpg?raw=true "Permissões")
 
 ***Empoderamento do usuário***
-Objetivo 01: Fidelização
+- Objetivo 01: Fidelização
+
 ***Quanto mais ele permite, mais pontos ganha***
-Objetivo 02: Monetização, pela qualidade dos dados a serem consultados;
-Objetivo 03: Fidelização do CONSULENTE/CONCEDENTE de crédito;
-Objetivo 04: Gamificação para o usuário.
+
+- Objetivo 02: Monetização, pela qualidade dos dados a serem consultados;
+
+- Objetivo 03: Fidelização do CONSULENTE/CONCEDENTE de crédito;
+
+- Objetivo 04: Gamificação para o usuário.
 
 #### 4) Meus Pontos - Minhas Trocas:
 ![Meus Pontos](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA07-MEUS-PONTOS.jpeg?raw=true "Title")
+
 ***Vantagens ao Usuário***
-Objetivo 01: Fidelização;
-Objetivo 02: Gamificação;
-Objetivo 03: Monetização, podendo conectar aqui um programa de fidelidade existente.
+
+- Objetivo 01: Fidelização;
+
+- Objetivo 02: Gamificação;
+
+- Objetivo 03: Monetização, podendo conectar aqui um programa de fidelidade existente.
 
 #### 5) Meus Pontos com HELPER - Educação Financeira:
 ![Educa_Finan](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA08-MEUS-PONTOS-COM-HELPER.jpeg?raw=true "Title")
+
 ***Educação Financeira***
-Objetivo 01: Fidelização;
-Objetivo 02: Gamificação;
-Objetivo 03: Monetização, podendo conectar aqui uma legaltech para intermediar acordos, "feirão" para limpar nome etc.
+
+- Objetivo 01: Fidelização;
+
+- Objetivo 02: Gamificação;
+
+- Objetivo 03: Monetização, podendo conectar aqui uma legaltech para intermediar acordos, "feirão" para limpar nome etc.
 
 #### 6) DESBANCARIZADOS - Criação de movimentos para microcrédito:
 ![Desbancarizados](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA09-GERENCIADOR.jpeg?raw=true"Desbancarizados")
+
 ***Certificação cruzada (estabelecimento e consumidores) para capturar dados atualmente inexistentes, fortalecer laços nessa faixa de comércio, possibilitar microcrédito em estabelecimentos nesses locais***
 
-Objetivo 01: Atração pela eliminação de planilha e carnês em papel;
-Objetivo 02: Impulsionar a geração de dados nesse segmento do mercado; essas transações já existem na vida real, porém, não são capturadas;
-Objetivo 03: Compartilhar risco com a rede, que se auto-avaliará (tal como fazem o passageiro do aplicativo e o motorista; comprador e vendedor nos sites de intermediação de venda etc.);
-Objetivo 03:  segurança ao próximo estabelecimento, para decidir se pode vender "fiado" para pessoas de certa comunidade (Ex: o dentista atende uma emergência naquele bairro e saberá se tal paciente está pagando "em dia" o crediário do sapado e da papelaria (material escolar);
-.Objetivo 04: Fidelização, já que o desbancarizado poderá usufruir dos mesmos benefícios dos demais (exceto para créditos maiores).
+- Objetivo 01: Atração pela eliminação de planilha e carnês em papel;
+
+- Objetivo 02: Impulsionar a geração de dados nesse segmento do mercado; essas transações já existem na vida real, porém, não são capturadas;
+
+- Objetivo 03: Compartilhar risco com a rede, que se auto-avaliará (tal como fazem o passageiro do aplicativo e o motorista; comprador e vendedor nos sites de intermediação de venda etc.);
+
+- Objetivo 04:  segurança ao próximo estabelecimento, para decidir se pode vender "fiado" para pessoas de certa comunidade (Ex: o dentista atende uma emergência naquele bairro e saberá se tal paciente está pagando "em dia" o crediário do sapado e da papelaria (material escolar);
+
+- Objetivo 05: Fidelização, já que o desbancarizado poderá usufruir dos mesmos benefícios dos demais (exceto para créditos maiores).
 
 
 #### 7) PRIVACIDADE & LGPD:
 ![PRIVACIDADE](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA10-MEUS-PAGAMENTOS-ORACLE.jpeg?raw=true"Privacidade")
+
 ***Somente dados do CPF autenticado no Login***
 
 #### 7.1) PRIVACIDADE & LGPD & Banco de Dados Oracle:
 ![PRIVACIDADE](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA10-MEUS-PAGAMENTOS.jpeg?raw=true"Privacidade")
+
 ***CPF: chave-mestra dentro do código***
 
 #### 8) EDUCAÇÃO FINANCEIRA: MATÉRIAS/CURSOS SEGUNDO O MOMENTO FINANCEIRO DO USUÁRIO:
 ![HELPER](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA11-HELPER-MATERIAS.jpeg?raw=true"Helper")
+
 ***CPF: chave-mestra dentro do código***
 
 #### 9) CONTROLE DE ACESSO AOS DADOS (DO E PELO USUÁRIO):
 ![MEUS-DADOS](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA12-MEUS-DADOS-PRIVACIDADE-2.jpeg?raw=true"MEUS-DADOS")
+
 ***Poder ao usuário e recompensas pelos seus dados***
 
 
@@ -123,23 +149,31 @@ Objetivo 03:  segurança ao próximo estabelecimento, para decidir se pode vende
 
 ## II - TECNOLOGIAS ADOTADAS NA SOLUÇÃO
 
+Para conciliar o aprendizado com as matérias lecionadas na FATEC, escolhemos manter a linguagem Java para desenvolver o backend e trocamos no Banco de Dados para Oracle.
+
+Desta forma, contamos com a orientação dos Docentes e muita pesquisa em fóruns virtuais especializados para implementar blocos de códigos com propósito específico.
+
+As bibliotecas e tecnologias utilizadas foram:
+
 - Linguagem de programação Java: Java é uma linguagem de programação orientada a objetos, permancemos com a mesma linguagem back-en para aprimoramento dos conhecimentos.
 
-- Linguagem de programação Type Script: TypeScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. Usamos o javascript para aprimorar nossa aplicação web com foco nos cálculos, estilização dos cards e dasboard;
-
-- Linguagem de marcação CSS, HTML: HTML é utilizada na construção de páginas na Web e juntamente aplicamos o CSS para dar estilo a nossa aplicação web;
-
-- CSS framework Bootstrap:  é um componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript. UTilizamos para estilização e responsividade da nossa aplicação web.
+- SpringBoot: É um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele trouxe mais agilidade para o processo de desenvolvimento, reduzindo o tempo gasto com as configurações iniciais
 
 - Angular: Desenvolvemos nosso front-end pelo Angular, que é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript.
 
-- Postman: Testamos nossas requisições através do postman, que é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs.
+- Linguagem de programação Type Script: TypeScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. Usamos o javascript para aprimorar nossa aplicação web com foco nos cálculos, e estilização dos cards e dasboard;
 
-- Insomnia: Testamos nossas requisições através do postman, que é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs.
+- Linguagem de marcação CSS, HTML: HTML é utilizada na construção de páginas na Web e juntamente aplicamos o CSS para dar estilo a nossa aplicação;
 
-- Data Grip: IDE de banco de dados, ele detecta bugs prováveis no seu código e sugere as melhores opções para corrigi-los rapidamente.
+- CSS framework Bootstrap: É um componente de interface para sites e aplicações web, utilizamos para estilização e responsividade da nossa aplicação Web.
 
-- Visual Code: O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft
+- Postman: Testamos nossas requisições através do Postman, que é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs.
+
+- Insomnia: Testamos nossas requisições através do Insominia, que é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs.
+
+- Data Grip: IDE de banco de dados, ele detecta bugs prováveis no código e sugere as melhores opções para corrigi-los rapidamente.
+
+- Visual Code: O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft, utilizamos para rodar nosso front-end.
 
 - Banco de Dados Oracle: O Banco de dados Oracle (Oracle DB) é um sistema de gerenciamento de banco de dados relacional (RDBMS, Relational Database Management System),com ele criamos nosso banco de dados para integração com backend.
  
@@ -149,9 +183,9 @@ Objetivo 03:  segurança ao próximo estabelecimento, para decidir se pode vende
 
 ### III - CONTRIBUIÇÕES INDIVIDUAS/PESSOAIS
 
-Nesse projeto afim de aprimorar os conhecimentos na área que mais se identificou ao longo do curso, como foquei no bakcend e banco de dados no Projeto anterior, resolvi focar e estudar novas tecnologias do Front-End, com isso contribui com o projeto, trazendo:
+Nesse projeto como a equipe já tinha passado pelo conhecimento em back-end, front-end e banco de dados para aprimorar os conhecimentos na área que mais se identificou, cada integrante pode escolher a sua função. Como eu foquei no bakcend e banco de dados no Projeto anterior, resolvi participar da equipe do Front-end para poder aprimorar o que eu já conhecia e estudar novas tecnologias com isso contribui com o projeto, trazendo:
 
-- Aplicação Angular: Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript, por ser um framework modular, ele precisa de um ou mais módulos para que possamos gerenciar os nossos componentes, esse módulo acaba sendo um default, mas podemos criar outros modulos e chamar eles dentro dele, por essa organização, facilidade de entendimento e por ser uns dos principais frameworks mais utilizados atualmente, resolvemos trazer essa aplicação para nosso projeto. Através dessa tecnologia desenvolvemos as telas:
+- Aplicação Angular: Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript, por ser um framework modular, ele precisa de um ou mais módulos para que possamos gerenciar os nossos componentes, esse módulo acaba sendo um default, mas podemos criar outros modulos e chamar eles dentro dele, por essa organização, facilidade de entendimento e por ser uns dos principais frameworks mais utilizados atualmente, resolvemos trazer essa aplicação para nosso projeto. Através dessa tecnologia desenvolvi as telas:
 - VIEW: Tela de permissões de acesso a dados do usuário;
 
 - VIEW: Tela de sumário de pontos e trocas possíveis;
@@ -162,7 +196,7 @@ Nesse projeto afim de aprimorar os conhecimentos na área que mais se identifico
 
 ![MóduloAngular](https://user-images.githubusercontent.com/61089745/141664849-ddac0cb9-7e06-4526-8e5a-562b2aee8463.PNG)
 
-- TypeScript: Utilizei o TypeScript para cria a Tela de sumário de pontos e trocas possíveis e Cadastro de Transações para Desbancarizados, pois é uma tela com objetos estatísticos e com cálculos de transações, necessitava de uma linguagem mais robusta.
+- TypeScript: Utilizei o TypeScript para criar a Tela de sumário de pontos e trocas possíveis e Cadastro de Transações para Desbancarizados, pois é uma tela com objetos estatísticos e com cálculos de transações, necessitava de uma linguagem mais robusta.
 
 ![TypeTransações](https://user-images.githubusercontent.com/61089745/141664757-b8a20b0c-9d67-4c7f-94f4-0e86cc652c76.PNG)
 
@@ -173,8 +207,17 @@ Nesse projeto afim de aprimorar os conhecimentos na área que mais se identifico
 
 ### IV - APRENDIZADOS EFETIVOS
 
-Aprendi outros frameworks da aplicação web como Angular, TypeScript, CSS, reforcei meus conhecimentos em HTML.
-Não sabia como testava uma aplicação backend, pude conhecer e usar o Postman e Insominia
-Conheci um novo banco de dados Oracle e aprendi a usar o Hibernet, são sabia que essa funcionalidade criava as tabelas automaticamente.
+Cada projeto integrador é singular mas é notável que em cada semestre estamos com mais conhecimento e prática nas ferramentas sendo capaz de desenvolver código Backend e Front-End mais rápido, limpo e com boas práticas.
+
+Fomos capazes em gerar uma aplicação Web com Angular uma dos frameworks mais utilizados no Brasil, essa vivência é um grande ganho para o mundo profissional.
+Pude conhecer a linguagem de TypeScript e reforçar meus conhecimentos em  CSS, HTML e demais estilização.
+
+Não sabia como testava uma aplicação back-end, com o projeto pude conhecer e usar o Postman e Insominia que são ferramentas utilizadas em grandes empresas.
+
+Conheci um novo banco de dados Oracle e como usar o Hibernet, são sabia que era possível criar tabelas e banco de dados automaticamente. Podendo colocar em prática o que estávemos aprendendo na matéria de Banco de Dados. Atribuindo permissões e importando DataSet.
+
 Aprimorei o conhecimento do repositório GitHub.
-Conheci o editor Visual Code, não sabia da existencia até rodar a aplicação front end em angular
+
+Conheci um novo editor, Visual Code, não sabia da existencia até rodar a aplicação front end em Angular.
+
+Tive a vivência em ver e rodar uma aplicação Java com SpringBoot, e configurar os arquivos Properties e o POM.xml
