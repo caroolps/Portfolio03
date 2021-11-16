@@ -21,10 +21,10 @@ Diferente do cadastro negativo, nessa modalidade, a empresa não vê apenas o qu
 
 Com base nesse briefing, como característica principal, da qual decorrem as funcionalidades (requisitos), a aplicação deve possibilitar que o usuário consiga visualizar seu score,  análise dos seus dados a equipe deve propor ideias e diferenciais na aplicação para que o usuário se interesse e veja benefícios em utilizar a ferramenta Cadastro Positivo. Com isso propusemos uma ferramenta com Monetização e Fidelização como atrativo para o usuário.
 
-## Estrutura do Projeto
+### Estrutura do Projeto
 ![Casos-de-Uso](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/DIAGRAMA-CASOS-DE-USO-v.2.jpg?raw=true"Casos-de-Uso")
 
-## Proposta
+### Proposta
 #### DIFERENCIAIS DA PLATAFORMA:
 - **MONETIZAÇÃO:** TODAS AS FUNÇÕES SÃO MONETIZÁVEIS;
 - **FIDELIZAÇÃO** pela **GAMIFICAÇÃO** POR TODO O AMBIENTE EM BUSCA DA FIDELIZAÇÃO;
