@@ -217,6 +217,6 @@ Aprimorei o conhecimento do repositório GitHub.
 
 Conheci um novo editor, Visual Code, não sabia da existencia até rodar a aplicação front end em Angular.
 
-Esse semestre foi decisório para por em prática todos os conhecimentos adquiridos ao decorrer do curso. Portanto, pude demonstrar essa vivência na área de programação fora da faculdade, começando a conciliar a minha área administrativa com a de programação. Demonstrando aprendizados na área profissional, fazendo consultas no banco de dados, entendendo melhor um requisito do cliente, foi um marco para minha mudança profissional. Que me fez sair de função de auxiliar administrativo para Analista de Teste/QA.
+Esse semestre foi decisório para por em prática todos os conhecimentos adquiridos ao decorrer do curso. Portanto, pude demonstrar essa vivência na área de programação fora da faculdade e conciliar com a minha área administrativa. Me destacando na empresa fazendo consultas no banco de dados, entendendo melhor um requisito do cliente e sua regra de negócio, foi um marco para minha mudança profissional que me fez sair de função de auxiliar administrativo para Analista de Teste/QA.
 
 
