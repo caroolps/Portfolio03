@@ -194,6 +194,7 @@ Nesse projeto como a equipe já tinha passado pelo conhecimento em back-end, fro
 - TypeScript: Utilizei o TypeScript para criar a Tela de sumário de pontos e trocas possíveis e Cadastro de Transações para Desbancarizados, pois é uma tela com objetos estatísticos e com cálculos de transações, necessitava de uma linguagem mais robusta.
 
 ![TypeTransações](https://user-images.githubusercontent.com/61089745/141664757-b8a20b0c-9d67-4c7f-94f4-0e86cc652c76.PNG)
+![Desbancarizados](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA09-GERENCIADOR.jpeg?raw=true"Desbancarizados")
 
 - Validações na tela de Login: Juntamente com o backend foi implantado um mecanismo de validação na tela de login e ao digitar o user ou password errado o sistema avisa que não foi encontrado esse login;
 
