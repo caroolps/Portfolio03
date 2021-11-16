@@ -177,7 +177,7 @@ As tecnologias utilizadas foram:
 
 ### III - CONTRIBUIÇÕES INDIVIDUAS/PESSOAIS
 
-Nesse projeto como a equipe já tinha passado pelo conhecimento em back-end, front-end e banco de dados para aprimorar os conhecimentos na área que mais nos identificamos, cada integrante do grupo pode escolher a sua função. Como eu foquei no bakcend e banco de dados no Projeto anterior, resolvi participar da equipe do Front-end para poder aprimorar o que eu já conhecia e estudar novas tecnologias, então pude contribuir com o projeto, trazendo:
+Nesse projeto como a equipe já tinha passado pelo conhecimento em back-end, front-end e banco de dados para aprimorar os conhecimentos na área que mais nos identificamos, cada integrante do grupo pode escolher a sua função. Como eu foquei no back-end e banco de dados no Projeto anterior, resolvi participar da equipe do Front-end para poder aprimorar o que eu já conhecia e estudar novas tecnologias, então pude contribuir com o projeto, trazendo:
 
 - Aplicação Angular: Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript, por ser um framework modular, ele precisa de um ou mais módulos para que possamos gerenciar os nossos componentes, esse módulo acaba sendo um default, mas podemos criar outros modulos e chamar eles dentro dele, por essa organização, facilidade de entendimento e por ser uns dos principais frameworks mais utilizados atualmente, resolvemos trazer essa aplicação para nosso projeto. Antes de iniciarmos essa ferramenta estávamos construindo as telas do zero com todas as tags com HTML e CSS puro, por sugestão de uma colega ela nos apresentou o Angular e através dessa tecnologia desenvolvi as telas:
 - VIEW: Tela de permissões de acesso a dados do usuário;
