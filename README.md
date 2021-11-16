@@ -55,7 +55,6 @@ Dash com as informações e histórico do Score do usuário.
 
 #### 3) Minha Conta - permissões de acesso aos meus dados:
 ![permissões](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/TELA-02-MINHA-CONTA-PERMISSOES.jpg?raw=true "Permissões")
-
 ***Empoderamento do usuário***
 - Objetivo 01: Fidelização
 
@@ -69,7 +68,6 @@ Dash com as informações e histórico do Score do usuário.
 
 #### 4) Meus Pontos - Minhas Trocas:
 ![Meus Pontos](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA07-MEUS-PONTOS.jpeg?raw=true "Title")
-
 ***Vantagens ao Usuário***
 
 - Objetivo 01: Fidelização;
@@ -80,7 +78,6 @@ Dash com as informações e histórico do Score do usuário.
 
 #### 5) Meus Pontos com HELPER - Educação Financeira:
 ![Educa_Finan](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA08-MEUS-PONTOS-COM-HELPER.jpeg?raw=true "Title")
-
 ***Educação Financeira***
 
 - Objetivo 01: Fidelização;
@@ -91,7 +88,6 @@ Dash com as informações e histórico do Score do usuário.
 
 #### 6) DESBANCARIZADOS - Criação de movimentos para microcrédito:
 ![Desbancarizados](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA09-GERENCIADOR.jpeg?raw=true"Desbancarizados")
-
 ***Certificação cruzada (estabelecimento e consumidores) para capturar dados atualmente inexistentes, fortalecer laços nessa faixa de comércio, possibilitar microcrédito em estabelecimentos nesses locais***
 
 - Objetivo 01: Atração pela eliminação de planilha e carnês em papel;
@@ -112,17 +108,14 @@ Dash com as informações e histórico do Score do usuário.
 
 #### 7.1) PRIVACIDADE & LGPD & Banco de Dados Oracle:
 ![PRIVACIDADE](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA10-MEUS-PAGAMENTOS.jpeg?raw=true"Privacidade")
-
 ***CPF: chave-mestra dentro do código***
 
 #### 8) EDUCAÇÃO FINANCEIRA: MATÉRIAS/CURSOS SEGUNDO O MOMENTO FINANCEIRO DO USUÁRIO:
 ![HELPER](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA11-HELPER-MATERIAS.jpeg?raw=true"Helper")
-
 ***CPF: chave-mestra dentro do código***
 
 #### 9) CONTROLE DE ACESSO AOS DADOS (DO E PELO USUÁRIO):
 ![MEUS-DADOS](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA12-MEUS-DADOS-PRIVACIDADE-2.jpeg?raw=true"MEUS-DADOS")
-
 ***Poder ao usuário e recompensas pelos seus dados***
 
 
@@ -153,7 +146,7 @@ Para conciliar o aprendizado com as matérias lecionadas na FATEC, escolhemos ma
 
 Desta forma, contamos com a orientação dos Docentes e muita pesquisa em fóruns virtuais especializados para implementar blocos de códigos com propósito específico.
 
-As bibliotecas e tecnologias utilizadas foram:
+As tecnologias utilizadas foram:
 
 - Linguagem de programação Java: Java é uma linguagem de programação orientada a objetos, permancemos com a mesma linguagem back-en para aprimoramento dos conhecimentos.
 
@@ -170,6 +163,7 @@ As bibliotecas e tecnologias utilizadas foram:
 - Postman: Testamos nossas requisições através do Postman, que é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs.
 
 - Insomnia: Testamos nossas requisições através do Insominia, que é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs.
+![image](https://user-images.githubusercontent.com/61089745/141985664-81df10dc-fd1d-44d1-b65f-06f8eb0ce5e4.png)
 
 - Data Grip: IDE de banco de dados, ele detecta bugs prováveis no código e sugere as melhores opções para corrigi-los rapidamente.
 
@@ -189,11 +183,13 @@ Nesse projeto como a equipe já tinha passado pelo conhecimento em back-end, fro
 - VIEW: Tela de permissões de acesso a dados do usuário;
 
 - VIEW: Tela de sumário de pontos e trocas possíveis;
+![Meus Pontos](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA07-MEUS-PONTOS.jpeg?raw=true "Title")
 
 - VIEW: Tela de Educação Financeira e Desafios;
+![Educa_Finan](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA08-MEUS-PONTOS-COM-HELPER.jpeg?raw=true "Title")
 
 - VIEW: Cadastro de Transações para Desbancarizados;
-
+![Desbancarizados](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA09-GERENCIADOR.jpeg?raw=true"Desbancarizados")
 ![MóduloAngular](https://user-images.githubusercontent.com/61089745/141664849-ddac0cb9-7e06-4526-8e5a-562b2aee8463.PNG)
 
 - TypeScript: Utilizei o TypeScript para criar a Tela de sumário de pontos e trocas possíveis e Cadastro de Transações para Desbancarizados, pois é uma tela com objetos estatísticos e com cálculos de transações, necessitava de uma linguagem mais robusta.
@@ -214,10 +210,13 @@ Pude conhecer a linguagem de TypeScript e reforçar meus conhecimentos em  CSS, 
 
 Não sabia como testava uma aplicação back-end, com o projeto pude conhecer e usar o Postman e Insominia que são ferramentas utilizadas em grandes empresas.
 
-Conheci um novo banco de dados Oracle e como usar o Hibernet, são sabia que era possível criar tabelas e banco de dados automaticamente. Podendo colocar em prática o que estávemos aprendendo na matéria de Banco de Dados. Atribuindo permissões e importando DataSet.
+Conheci um novo banco de dados Oracle e como usar o Hibernet, são sabia que era possível criar tabelas e banco de dados automaticamente. Podendo colocar em prática o que estávemos aprendendo na matéria de Banco de Dados. Atribuindo permissões e importando DataSet. Tive a vivência em ver e rodar uma aplicação Java com SpringBoot, e configurar os arquivos Properties e o POM.xml
+
+![image](https://user-images.githubusercontent.com/61089745/141985879-cebdf425-daba-47b0-bacb-c9b645085e31.png)
+
 
 Aprimorei o conhecimento do repositório GitHub.
 
 Conheci um novo editor, Visual Code, não sabia da existencia até rodar a aplicação front end em Angular.
 
-Tive a vivência em ver e rodar uma aplicação Java com SpringBoot, e configurar os arquivos Properties e o POM.xml
+
