@@ -118,23 +118,21 @@ Dash com as informações e histórico do Score do usuário.
 ![MEUS-DADOS](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA12-MEUS-DADOS-PRIVACIDADE-2.jpeg?raw=true"MEUS-DADOS")
 ***Poder ao usuário e recompensas pelos seus dados***
 
+### DETALHES DOS CÓDIGOS
 
-## I - ALCANCE DA FERRAMENTA
-![alcance](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/Alcance_escopo_valscore-1.0.jpg?raw=true"Casos-de-Uso")
-
-## II - ANGULAR: PRIVACIDADE E TRATAMENTO DE ERROS (LOGIN, ENVIO DA REQUISIÇÃO: ***session storage***)
+## I - ANGULAR: PRIVACIDADE E TRATAMENTO DE ERROS (LOGIN, ENVIO DA REQUISIÇÃO: ***session storage***)
 ![PRIVACIDADE](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/PRIVACIDADE%2BTRATAMENTO-ERROS-01.jpeg?raw=true"session-storage")
 
-## III - ANGULAR: PRIVACIDADE E TRATAMENTO DE ERROS (RESPOSTA À REQUISIÇÃO: ***session storage***)
+## II - ANGULAR: PRIVACIDADE E TRATAMENTO DE ERROS (RESPOSTA À REQUISIÇÃO: ***session storage***)
 ![PRIVACIDADE](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/PRIVACIDADE%2BTRATAMENTO-ERROS-02.jpeg?raw=true"session-storage")
 
-## IV - CÓDIGO: CONSULTA E ALTERA NO BANCO DE DADOS
+## III - CÓDIGO: CONSULTA E ALTERA NO BANCO DE DADOS
 ![Consulta-Altera](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/CONSULTA-ALTERA-DADOS.jpeg?raw=true"Consulta-Altera")
 
-## V.I - CÓDIGO: IMPORTA ARQUIVOS CSV, TRATA DADOS E INSERE NO BANCO DE DADOS
+## IV - CÓDIGO: IMPORTA ARQUIVOS CSV, TRATA DADOS E INSERE NO BANCO DE DADOS
 ![Importa-CSVl](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/IMPORTA-ARQUIVO-CODIGO.jpeg?raw=true"Importa-CSV")
 
-## V - MODELO-RELACIONAL DO BANCO DE DADOS
+## VI - MODELO-RELACIONAL DO BANCO DE DADOS
 ![Modelo-Relacional](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/MODELO-RELACIONAL-VALSCORE.jpg?raw=true"Casos-de-Uso")
 
 ## VII - DIAGRAMA DE CLASSES DO BANCO DE DADOS
