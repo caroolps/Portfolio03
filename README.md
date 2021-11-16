@@ -118,7 +118,7 @@ Dash com as informações e histórico do Score do usuário.
 ![MEUS-DADOS](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA12-MEUS-DADOS-PRIVACIDADE-2.jpeg?raw=true"MEUS-DADOS")
 ***Poder ao usuário e recompensas pelos seus dados***
 
-### DETALHES DOS CÓDIGOS
+### PARTES DOS CÓDIGOS DETALHADOS:
 
 ## I - ANGULAR: PRIVACIDADE E TRATAMENTO DE ERROS (LOGIN, ENVIO DA REQUISIÇÃO: ***session storage***)
 ![PRIVACIDADE](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/PRIVACIDADE%2BTRATAMENTO-ERROS-01.jpeg?raw=true"session-storage")
