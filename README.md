@@ -19,7 +19,7 @@ O cliente está com dificuldades em trazer e manter seus usuários cadastrados n
 
 Diferente do cadastro negativo, nessa modalidade, a empresa não vê apenas o que você deixou de pagar, mas o conjunto completo. Ou seja, ela vê tanto o que você pagou quanto o que você ainda não pagou. A partir da análise desses pagamentos, é calculado o seu score de crédito.
 
-Com base nesse briefing, como característica principal, da qual decorrem as funcionalidades (requisitos), a aplicação deve possibilitar que o usuário consiga visualizar seu score,  análise dos seus dados e a equipe deve propor ideias e difenciais na aplicação para que o usuário se interesse e veja benefícios em utilizar a ferramenta Cadastro Positivo. Com isso proposmo uma ferramenta com Monetização e Fidelização como atrativo para o usuário.
+Com base nesse briefing, como característica principal, da qual decorrem as funcionalidades (requisitos), a aplicação deve possibilitar que o usuário consiga visualizar seu score,  análise dos seus dados a equipe deve propor ideias e difenciais na aplicação para que o usuário se interesse e veja benefícios em utilizar a ferramenta Cadastro Positivo. Com isso proposmo uma ferramenta com Monetização e Fidelização como atrativo para o usuário.
 
 ## Estrutura do Projeto
 ![Casos-de-Uso](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/DIAGRAMA-CASOS-DE-USO-v.2.jpg?raw=true"Casos-de-Uso")
