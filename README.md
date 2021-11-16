@@ -209,7 +209,7 @@ Terminamos esse projeto sendo capazes de gerar uma aplicação Web com Angular u
 
 Não imaginava que era possível e como se testava uma requisição back-end, com o projeto integrador e com uma integrante com mais vivência em programação ela nos apresentou e ensinou como usar o Postman e Insominia que são ferramentas utilizadas em grandes empresas.
 
-Conheci um novo banco de dados Oracle e como usar o Hibernet, são tinha o conhecimento que era possível criar tabelas e banco de dados automaticamente. Uma funcionalidade tão simples e prática que nos poupa tempo para dedicarmos em outras tarefas do projeto. Conseguimos colocar em prática o que estávamos aprendendo na matéria de Banco de Dados. Atribuindo permissões e importando DataSet. Tive a vivência em ver e rodar uma aplicação Java com SpringBoot, e configurar os arquivos Properties e o POM.xml. Questões de usabilidade que uso até os dias atuais.
+Conheci um novo banco de dados Oracle e como usar o Hibernet, não tinha o conhecimento que era possível criar tabelas e banco de dados automaticamente. Uma funcionalidade tão simples e prática que nos poupo tempo para dedicarmos em outras tarefas do projeto. Conseguimos colocar em prática o que estávamos aprendendo na matéria de Banco de Dados. Atribuindo permissões e importando DataSet. Tive a vivência em ver e rodar uma aplicação Java com SpringBoot configurando os arquivos Properties e o POM.xml. Questões de usabilidade que uso até os dias atuais.
 
 ![image](https://user-images.githubusercontent.com/61089745/141985879-cebdf425-daba-47b0-bacb-c9b645085e31.png)
 
