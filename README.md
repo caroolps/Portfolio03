@@ -148,7 +148,7 @@ As tecnologias utilizadas foram:
 
 - Linguagem de programação Java: Java é uma linguagem de programação orientada a objetos, permanecemos com a mesma linguagem back-end para aprimoramento dos conhecimentos.
 
-- SpringBoot: É um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele trouxe mais agilidade para o processo de desenvolvimento, reduzindo o tempo gasto com as configurações iniciais.
+- SpringBoot: É um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele trouxe mais agilidade para o processo de desenvolvimento, reduzindo o tempo gasto com as configurações iniciais. A ferramenta foi apresentada através de uma integrante do grupo que tinha mais experiência no back-end.
 
 - Angular: Desenvolvemos nosso front-end pelo Angular, que é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript.
 
