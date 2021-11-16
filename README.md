@@ -148,7 +148,7 @@ Desta forma, contamos com a orientação dos Docentes e muita pesquisa em fórun
 
 As tecnologias utilizadas foram:
 
-- Linguagem de programação Java: Java é uma linguagem de programação orientada a objetos, permancemos com a mesma linguagem back-en para aprimoramento dos conhecimentos.
+- Linguagem de programação Java: Java é uma linguagem de programação orientada a objetos, permanecemos com a mesma linguagem back-end para aprimoramento dos conhecimentos.
 
 - SpringBoot: É um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele trouxe mais agilidade para o processo de desenvolvimento, reduzindo o tempo gasto com as configurações iniciais
 
@@ -156,7 +156,7 @@ As tecnologias utilizadas foram:
 
 ![MóduloAngular](https://user-images.githubusercontent.com/61089745/141664849-ddac0cb9-7e06-4526-8e5a-562b2aee8463.PNG)
 
-- Linguagem de programação Type Script: TypeScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. Usamos o javascript para aprimorar nossa aplicação web com foco nos cálculos, e estilização dos cards e dasboard;
+- Linguagem de programação Type Script: TypeScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. Usamos o javascript para aprimorar nossa aplicação web com foco nos cálculos, e estilização dos cards e dashboard;
 
 - Linguagem de marcação CSS, HTML: HTML é utilizada na construção de páginas na Web e juntamente aplicamos o CSS para dar estilo a nossa aplicação;
 
@@ -197,16 +197,16 @@ Nesse projeto como a equipe já tinha passado pelo conhecimento em back-end, fro
 
 ![TypeTransações](https://user-images.githubusercontent.com/61089745/141664757-b8a20b0c-9d67-4c7f-94f4-0e86cc652c76.PNG)
 
-- Validações na tela de Login: Juntamente com o backend foi implatado um mecânismo de validação na tela de login e ao digitar o user ou password errado o sistema avisa que não foi encontrado esse login;
+- Validações na tela de Login: Juntamente com o backend foi implantado um mecanismo de validação na tela de login e ao digitar o user ou password errado o sistema avisa que não foi encontrado esse login;
 
 ![Capturar](https://user-images.githubusercontent.com/61089745/141664687-7b0eac95-f8d5-45eb-a4bc-bdae8a8f52b0.PNG)
 
 
 ### IV - APRENDIZADOS EFETIVOS
 
-Cada projeto integrador é singular mas é notável que em cada semestre estamos com mais conhecimento e prática nas ferramentas sendo capaz de desenvolver código Backend e Front-End mais rápido, limpo e com boas práticas.
+Cada projeto integrador é singular, mas é notável que em cada semestre estamos com mais conhecimento e prática nas ferramentas sendo capaz de desenvolver código Backend e Front-End mais rápido, limpo e com boas práticas.
 
-Fomos capazes em gerar uma aplicação Web com Angular uma dos frameworks mais utilizados no Brasil, essa vivência é um grande ganho para o mundo profissional.
+Fomos capazes em gerar uma aplicação Web com Angular um dos frameworks mais utilizados no Brasil, essa vivência é um grande ganho para o mundo profissional.
 Pude conhecer a linguagem de TypeScript e reforçar meus conhecimentos em  CSS, HTML e demais estilização.
 
 Não sabia como testava uma aplicação back-end, com o projeto pude conhecer e usar o Postman e Insominia que são ferramentas utilizadas em grandes empresas.
