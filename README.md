@@ -154,6 +154,8 @@ As tecnologias utilizadas foram:
 
 - Angular: Desenvolvemos nosso front-end pelo Angular, que é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript.
 
+![MóduloAngular](https://user-images.githubusercontent.com/61089745/141664849-ddac0cb9-7e06-4526-8e5a-562b2aee8463.PNG)
+
 - Linguagem de programação Type Script: TypeScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. Usamos o javascript para aprimorar nossa aplicação web com foco nos cálculos, e estilização dos cards e dasboard;
 
 - Linguagem de marcação CSS, HTML: HTML é utilizada na construção de páginas na Web e juntamente aplicamos o CSS para dar estilo a nossa aplicação;
@@ -181,6 +183,7 @@ Nesse projeto como a equipe já tinha passado pelo conhecimento em back-end, fro
 
 - Aplicação Angular: Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript, por ser um framework modular, ele precisa de um ou mais módulos para que possamos gerenciar os nossos componentes, esse módulo acaba sendo um default, mas podemos criar outros modulos e chamar eles dentro dele, por essa organização, facilidade de entendimento e por ser uns dos principais frameworks mais utilizados atualmente, resolvemos trazer essa aplicação para nosso projeto. Através dessa tecnologia desenvolvi as telas:
 - VIEW: Tela de permissões de acesso a dados do usuário;
+![permissões](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/TELA-02-MINHA-CONTA-PERMISSOES.jpg?raw=true "Permissões")
 
 - VIEW: Tela de sumário de pontos e trocas possíveis;
 ![Meus Pontos](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA07-MEUS-PONTOS.jpeg?raw=true "Title")
@@ -189,8 +192,6 @@ Nesse projeto como a equipe já tinha passado pelo conhecimento em back-end, fro
 ![Educa_Finan](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA08-MEUS-PONTOS-COM-HELPER.jpeg?raw=true "Title")
 
 - VIEW: Cadastro de Transações para Desbancarizados;
-![Desbancarizados](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA09-GERENCIADOR.jpeg?raw=true"Desbancarizados")
-![MóduloAngular](https://user-images.githubusercontent.com/61089745/141664849-ddac0cb9-7e06-4526-8e5a-562b2aee8463.PNG)
 
 - TypeScript: Utilizei o TypeScript para criar a Tela de sumário de pontos e trocas possíveis e Cadastro de Transações para Desbancarizados, pois é uma tela com objetos estatísticos e com cálculos de transações, necessitava de uma linguagem mais robusta.
 
