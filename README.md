@@ -140,7 +140,7 @@ Dash com as informações e histórico do Score do usuário.
 
 ## II - TECNOLOGIAS ADOTADAS NA SOLUÇÃO
 
-Para conciliar o aprendizado com as matérias lecionadas na FATEC, escolhemos manter a linguagem Java para desenvolver o backend e trocamos o Banco de Dados para Oracle.
+Para conciliar o aprendizado com as matérias lecionadas na FATEC, escolhemos manter a linguagem Java para desenvolver o backend e alternamos o Banco de Dados para Oracle.
 
 Desta forma, contamos com a orientação dos Docentes e muita pesquisa em fóruns virtuais especializados para implementar blocos de códigos com propósito específico.
 
@@ -148,7 +148,7 @@ As tecnologias utilizadas foram:
 
 - Linguagem de programação Java: Java é uma linguagem de programação orientada a objetos, permanecemos com a mesma linguagem back-end para aprimoramento dos conhecimentos.
 
-- SpringBoot: É um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele trouxe mais agilidade para o processo de desenvolvimento, reduzindo o tempo gasto com as configurações iniciais
+- SpringBoot: É um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. Consequentemente, ele trouxe mais agilidade para o processo de desenvolvimento, reduzindo o tempo gasto com as configurações iniciais.
 
 - Angular: Desenvolvemos nosso front-end pelo Angular, que é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript.
 
