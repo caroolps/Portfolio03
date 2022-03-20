@@ -106,11 +106,11 @@ Dash com as informações e histórico do Score do usuário.
 #### 7) PRIVACIDADE & LGPD:
 ![PRIVACIDADE](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA10-MEUS-PAGAMENTOS-ORACLE.jpeg?raw=true"Privacidade")
 
-**Somente dados do CPF autenticado no Login**
+Somente dados do CPF autenticado no Login
 
 #### 7.1) PRIVACIDADE & LGPD & Banco de Dados Oracle:
 ![PRIVACIDADE](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA10-MEUS-PAGAMENTOS.jpeg?raw=true"Privacidade")
-**CPF: chave-mestra dentro do código**
+CPF: chave-mestra dentro do código
 
 #### 8) EDUCAÇÃO FINANCEIRA: MATÉRIAS/CURSOS SEGUNDO O MOMENTO FINANCEIRO DO USUÁRIO:
 ![HELPER](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA11-HELPER-MATERIAS.jpeg?raw=true"Helper")
@@ -118,7 +118,7 @@ Dash com as informações e histórico do Score do usuário.
 
 #### 9) CONTROLE DE ACESSO AOS DADOS (DO E PELO USUÁRIO):
 ![MEUS-DADOS](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA12-MEUS-DADOS-PRIVACIDADE-2.jpeg?raw=true"MEUS-DADOS")
-**Poder ao usuário e recompensas pelos seus dados**
+Poder ao usuário e recompensas pelos seus dados
 
 ### PARTES DOS CÓDIGOS DETALHADOS:
 
