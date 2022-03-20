@@ -57,10 +57,10 @@ Dash com as informações e histórico do Score do usuário.
 
 #### 3) Minha Conta - permissões de acesso aos meus dados:
 ![permissões](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/TELA-02-MINHA-CONTA-PERMISSOES.jpg?raw=true "Permissões")
-***Empoderamento do usuário***
+**Empoderamento do usuário**
 - Objetivo 01: Fidelização
 
-***Quanto mais ele permite, mais pontos ganha***
+**Quanto mais ele permite, mais pontos ganha**
 
 - Objetivo 02: Monetização, pela qualidade dos dados a serem consultados;
 
@@ -70,7 +70,7 @@ Dash com as informações e histórico do Score do usuário.
 
 #### 4) Meus Pontos - Minhas Trocas:
 ![Meus Pontos](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA07-MEUS-PONTOS.jpeg?raw=true "Title")
-***Vantagens ao Usuário***
+**Vantagens ao Usuário**
 
 - Objetivo 01: Fidelização;
 
@@ -80,7 +80,7 @@ Dash com as informações e histórico do Score do usuário.
 
 #### 5) Meus Pontos com HELPER - Educação Financeira:
 ![Educa_Finan](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA08-MEUS-PONTOS-COM-HELPER.jpeg?raw=true "Title")
-***Educação Financeira***
+**Educação Financeira**
 
 - Objetivo 01: Fidelização;
 
@@ -90,7 +90,7 @@ Dash com as informações e histórico do Score do usuário.
 
 #### 6) DESBANCARIZADOS - Criação de movimentos para microcrédito:
 ![Desbancarizados](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA09-GERENCIADOR.jpeg?raw=true"Desbancarizados")
-***Certificação cruzada (estabelecimento e consumidores) para capturar dados atualmente inexistentes, fortalecer laços nessa faixa de comércio, possibilitar microcrédito em estabelecimentos nesses locais***
+**Certificação cruzada (estabelecimento e consumidores) para capturar dados atualmente inexistentes, fortalecer laços nessa faixa de comércio, possibilitar microcrédito em estabelecimentos nesses locais**
 
 - Objetivo 01: Atração pela eliminação de planilha e carnês em papel;
 
@@ -106,11 +106,11 @@ Dash com as informações e histórico do Score do usuário.
 #### 7) PRIVACIDADE & LGPD:
 ![PRIVACIDADE](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA10-MEUS-PAGAMENTOS-ORACLE.jpeg?raw=true"Privacidade")
 
-***Somente dados do CPF autenticado no Login***
+**Somente dados do CPF autenticado no Login**
 
 #### 7.1) PRIVACIDADE & LGPD & Banco de Dados Oracle:
 ![PRIVACIDADE](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA10-MEUS-PAGAMENTOS.jpeg?raw=true"Privacidade")
-***CPF: chave-mestra dentro do código***
+**CPF: chave-mestra dentro do código**
 
 #### 8) EDUCAÇÃO FINANCEIRA: MATÉRIAS/CURSOS SEGUNDO O MOMENTO FINANCEIRO DO USUÁRIO:
 ![HELPER](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA11-HELPER-MATERIAS.jpeg?raw=true"Helper")
@@ -118,7 +118,7 @@ Dash com as informações e histórico do Score do usuário.
 
 #### 9) CONTROLE DE ACESSO AOS DADOS (DO E PELO USUÁRIO):
 ![MEUS-DADOS](https://github.com/ODAGAMMXIX/2020.2-SPC-CAD-POSITIVO/blob/master/201129-SPRINT-03/TELA12-MEUS-DADOS-PRIVACIDADE-2.jpeg?raw=true"MEUS-DADOS")
-***Poder ao usuário e recompensas pelos seus dados***
+**Poder ao usuário e recompensas pelos seus dados**
 
 ### PARTES DOS CÓDIGOS DETALHADOS:
 
@@ -236,6 +236,6 @@ Conheci um novo editor, Visual Code, não sabia da existencia até rodar a aplic
 
 **Soft Skills Efetivamente Desenvolvidas:**
 
-Esse semestre foi decisório para por em prática todos os conhecimentos adquiridos ao decorrer do curso. Portanto, pude demonstrar essa vivência na área de programação fora da faculdade e conciliar com a minha área administrativa. Me destacando na empresa fazendo consultas no banco de dados, entendendo melhor um requisito do cliente e sua regra de negócio, foi um marco para minha mudança profissional que me fez sair de função de auxiliar administrativo para Analista de Teste/QA.
+Esse semestre foi decisório para por em prática todos os conhecimentos adquiridos ao decorrer do curso. Portanto, pude demonstrar essa vivência na área de programação fora da faculdade e conciliar com a minha área profissional "administrativa". Me destacando na empresa fazendo consultas no banco de dados, entendendo melhor um requisito do cliente e sua regra de negócio, foi um marco para minha mudança profissional que me fez sair de função de auxiliar administrativo para Analista de Teste/QA.
 
 
