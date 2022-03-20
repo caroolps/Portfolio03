@@ -9,9 +9,9 @@
 ![image](https://user-images.githubusercontent.com/61089745/158082449-894548ea-e14d-4de7-896d-12d2a9ec1d74.png)
 
 
-## FATEC & SPC BRASIL - CADASTRO POSITIVO
+## FATEC & SPC BRASIL - CADASTRO POSITIVO:white_check_mark:
 
-### I - RESUMO DO PROJETO 
+### **I - RESUMO DO PROJETO**:page_facing_up: 
 
 Neste terceiro Projeto Integrador a FATEC trouxe o Cliente "SPC BRASIL" para que pudéssemos achar uma solução tecnológica para sanar e atender às necessidades do cliente. 
 
@@ -140,7 +140,7 @@ Dash com as informações e histórico do Score do usuário.
 #### VII - DIAGRAMA DE CLASSES DO BANCO DE DADOS
 ![Modelo-Relacional](https://github.com/aerosdan/Valcode/blob/sprint02-nov-08/Imagens/DIAGRAMA-DE-CLASSES-VALSCORE.jpg?raw=true"Casos-de-Uso")
 
-#### II - TECNOLOGIAS ADOTADAS NA SOLUÇÃO
+### **II - TECNOLOGIAS**:iphone:
 
 Para conciliar o aprendizado com as matérias lecionadas na FATEC, escolhemos manter a linguagem Java para desenvolver o backend e alternamos o Banco de Dados para Oracle.
 
@@ -189,7 +189,7 @@ As tecnologias utilizadas foram:
 
 
 
-### III - CONTRIBUIÇÕES INDIVIDUAS/PESSOAIS
+### **III - CONTRIBUIÇÕES INDIVIDUAIS**:bow:
 
 Nesse projeto como a equipe já tinha passado pelo conhecimento em back-end, front-end e banco de dados para aprimorar os conhecimentos na área que mais nos identificamos, cada integrante do grupo pode escolher a sua função. Como eu foquei no back-end e banco de dados no Projeto anterior, resolvi participar da equipe do Front-end para poder aprimorar o que eu já conhecia e estudar novas tecnologias, então pude contribuir com o projeto, trazendo:
 
@@ -215,7 +215,9 @@ Nesse projeto como a equipe já tinha passado pelo conhecimento em back-end, fro
 ![image](https://user-images.githubusercontent.com/61089745/159171111-4e746e14-84d1-451f-898e-0c7e38cb2f96.png)
 
 
-### IV - APRENDIZADOS EFETIVOS
+### **IV - APRENDIZADOS EFETIVOS**:closed_book:
+
+**Hard Skills Efetivamente Desenvolvidas:**
 
 Cada projeto integrador é singular, mas é notável que em cada semestre estamos com mais conhecimento e prática nas ferramentas sendo capaz de desenvolver código Backend e Front-End mais rápido, limpo e com boas práticas.
 
@@ -225,12 +227,14 @@ Não imaginava que era possível e como se testava uma requisição back-end, co
 
 Conheci um novo banco de dados Oracle e como usar o Hibernet, não tinha o conhecimento que era possível criar tabelas e banco de dados automaticamente. Uma funcionalidade tão simples e prática que nos poupo tempo para dedicarmos em outras tarefas do projeto. Conseguimos colocar em prática o que estávamos aprendendo na matéria de Banco de Dados. Atribuindo permissões e importando DataSet. Tive a vivência em ver e rodar uma aplicação Java com SpringBoot configurando os arquivos Properties e o POM.xml. Questões de usabilidade que uso até os dias atuais.
 
-![image](https://user-images.githubusercontent.com/61089745/141985879-cebdf425-daba-47b0-bacb-c9b645085e31.png)
+![image](https://user-images.githubusercontent.com/61089745/159173380-a5396d6c-fd34-4710-9678-99a1bdec8459.png)
 
 
 Aprimorei o conhecimento do repositório GitHub.
 
 Conheci um novo editor, Visual Code, não sabia da existencia até rodar a aplicação front end em Angular.
+
+**Soft Skills Efetivamente Desenvolvidas:**
 
 Esse semestre foi decisório para por em prática todos os conhecimentos adquiridos ao decorrer do curso. Portanto, pude demonstrar essa vivência na área de programação fora da faculdade e conciliar com a minha área administrativa. Me destacando na empresa fazendo consultas no banco de dados, entendendo melhor um requisito do cliente e sua regra de negócio, foi um marco para minha mudança profissional que me fez sair de função de auxiliar administrativo para Analista de Teste/QA.
 
